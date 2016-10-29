@@ -1,0 +1,3 @@
+# MayfesPractice
+2017五月祭研修用レポジトリ
+Numpyのインデックシング・OpenCVでの画像処理
